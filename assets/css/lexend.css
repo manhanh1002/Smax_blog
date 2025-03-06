@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Lexend';
+    src: url(../fonts/Lexend-Regular.eot);
+    src: url(../fonts/Lexend-Regular.eot#iefix) format('embedded-opentype'), url(../fonts/Lexend-Regular.ttf) format('truetype'), url(../fonts/Lexend-Regular.woff) format('woff'), url(../fonts/Lexend-Regular.svg) format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lexend';
+    src: url(../fonts/Lexend-Italic.eot);
+    src: url(../fonts/Lexend-Italic.eot#iefix) format('embedded-opentype'), url(../fonts/Lexend-Italic.ttf) format('truetype'), url(../fonts/Lexend-Italic.woff) format('woff'), url(../fonts/Lexend-Italic.svg) format('svg');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lexend';
+    src: url(../fonts/Lexend-Light.eot);
+    src: url(../fonts/Lexend-Light.eot#iefix) format('embedded-opentype'), url(../fonts/Lexend-Light.ttf) format('truetype'), url(../fonts/Lexend-Light.woff) format('woff'), url(../fonts/Lexend-Light.svg) format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lexend';
+    src: url(../fonts/Lexend-Medium.eot);
+    src: url(../fonts/Lexend-Medium.eot#iefix) format('embedded-opentype'), url(../fonts/Lexend-Medium.ttf) format('truetype'), url(../fonts/Lexend-Medium.woff) format('woff'), url(../fonts/Lexend-Medium.svg) format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lexend';
+    src: url(../fonts/Lexend-SemiBold.eot);
+    src: url(../fonts/Lexend-SemiBold.eot#iefix) format('embedded-opentype'), url(../fonts/Lexend-SemiBold.ttf) format('truetype'), url(../fonts/Lexend-SemiBold.woff) format('woff'), url(../fonts/Lexend-SemiBold.svg) format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lexend';
+    src: url(../fonts/Lexend-Bold.eot);
+    src: url(../fonts/Lexend-Bold.eot#iefix) format('embedded-opentype'), url(../fonts/Lexend-Bold.ttf) format('truetype'), url(../fonts/Lexend-Bold.woff) format('woff'), url(../fonts/Lexend-Bold.svg) format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lexend';
+    src: url(../fonts/Lexend-ExtraBold.eot);
+    src: url(../fonts/Lexend-ExtraBold.eot#iefix) format('embedded-opentype'), url(../fonts/Lexend-ExtraBold.ttf) format('truetype'), url(../fonts/Lexend-ExtraBold.woff) format('woff'), url(../fonts/Lexend-ExtraBold.svg) format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lexend';
+    src: url(../fonts/Lexend-Black.eot);
+    src: url(../fonts/Lexend-Black.eot#iefix) format('embedded-opentype'), url(../fonts/Lexend-Black.ttf) format('truetype'), url(../fonts/Lexend-Black.woff) format('woff'), url(../fonts/Lexend-Black.svg) format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
